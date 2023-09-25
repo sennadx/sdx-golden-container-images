@@ -1,0 +1,1 @@
+# sennadx-golden-container-images
